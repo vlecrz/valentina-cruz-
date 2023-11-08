@@ -1,5 +1,5 @@
 # valentina-cruz-
-##Objetivo General 
+## Objetivo General 
 Entregar una muestra de los trabajos más signficativos e importantes a lo largo de mi vida
 Describa, con una frase que comience con un verbo, el beneficio práctico que aportará el resultado de su trabajo.
 
