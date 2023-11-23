@@ -1,0 +1,59 @@
+[
+    {
+        "nombre": "Catch the Insulin",
+        "fotos": ["https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310"],
+        "soporte": "diseño de juegos, impacto social/medioambiental",
+        "abstract": "Juego de educacional sobre la Diabetes Tipo 1",
+        "texto": "Primer semestre 2023. Juego de exterior inspirado en el juego Captura la Bandera pero adoptando un enfoque educativo en cuanto a la temática de la Diabetes. El propósito principal es generar empatía y entendimiendo sobre la enfermedad en los compañeros de curso de jóvenes con Diabetes."
+    },
+    {
+        "nombre": "Proyecto Pichi",
+        "fotos": ["https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310"],
+        "soporte": "gráfico, textil, producto",
+        "abstract": "Diseño de vestidos infantiles bordados",
+        "texto": "Verano 2023. Proyecto realizado durante para la Tienda de Oficios de la Casona Cultural de Panguipulli en colaboración con la agrupación Bordando Sueños. Consistió en el desarrollo de una línea de vestidos para niñes entre 1-4 años. Estos vestidos tenían como objetivo llevar los productos bordados de las señoras de la agrupación a otros ámbitos aún no explorados y que podrían tener mucho potencial. Los motivos ornamentales consistieron en dibujos hechos por mí de la flora y fauna nativa de la zona"
+    },
+    {
+        "nombre": "Solseco",
+        "fotos": ["https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310"],
+        "soporte": "diseño de juegos, impacto social/medioambiental",
+        "abstract": "Juego de mesa para concientizar sobre la crisis hídrica",
+        "texto": "Segundo semestre 2022. Solseco se sitúa en un futuro plausible, en el cual el recurso agua está muy escaso y las personas deben luchar para obtener un poco de ella. Optamos como grupo por hacer un juego ya que es una manera lúdica y entretenida de abordar un tema, visibilizar y entregar un mensaje que muchas veces es difícil de tocar al ser tan catastrófico. Este se compone de un tablero de 12 piezas donde los jugadores van avanzando de acuerdo a las cartas de la Fortuna. Estas determinan lo que ocurrirá con el personaje en ese turno al igual que la naturaleza actuaría si estuviéramos en ese escenario. Cada jugador cuenta con un litro de agua, la cual va perdiendo a lo largo de las jugadas."
+    },
+    {
+        "nombre": "Realidad Fragmentada",
+        "fotos": ["https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%207.jpg", "https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310"],
+        "soporte": "editorial, gráfico, impacto social/medioambiental",
+        "abstract": "Libro-objeto inspirado en la fragmentación de la sociedad Santiaguina",
+        "texto": "Segundo semestre 2022. que muestra la alienación ocurrida en la masa social por los aparatos tecnológicos. Se compone de una edición de fotos tomadas por la autora y se complementa con frases del autor surcoreano Byung-Chul Han, el cual habla sobre las heridas que han generado las nuevas tecnologías en la sociedad. Mediante los colores diferencié las dos realidades paralelas que son tan distintas entre sí. El amarillo representa la realidad real, tangible, terrenal y el azul representa la nueva realidad digital, inmaterial y artificial."
+    },
+    {
+        "nombre": "Taller Las Canteras",
+        "fotos": ["https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310"],
+        "soporte": "industrial, arquitectónico",
+        "abstract": "Espacio de trabajo para las mujeres orfebres de Las Canteras",
+        "texto": "Primer semestre 2022. Este proyecto fue un encargo de Puentes UC y Colina Emprende. El tema principal fue darle valor al Pueblito de Las Canteras y visibilizar el trabajo de sus residentes debido a que en 2018 fue declarado como Monumento Nacional por el ministerio de Educación. Como equipo, nos centramos en el trabajo de las artesanas orfebres del Pueblito de Las Canteras. Nuestro objetivo principal fue dignificar su trabajo a partir de la creación de un espacio que contiene todo lo necesario para el trabajo orfebre, además de considerar sus necesidades ergonómicas. Nuestra meta es que mediante la implementación o concretización de este taller ocurran cambios en la cultura de este pueblo, resignificando el rol de la mujer en este entorno dándole un mayor peso y trascendencia a su trabajo."
+    },
+    {
+        "nombre": "Raiko",
+        "fotos": ["https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310"],
+        "soporte": "diseño de juegos, impacto social/medioambiental",
+        "abstract": "Juego de mesa inspirado en la selva valdiviana",
+        "texto": "Segundo semestre 2021. Raiko es un juego que tiene como objetivo concientizar a las personas con respecto a los diversos actores que conviven su ecosistema y la manera en que se afectan entre sí. En las imágenes se pueden obseervar las cartas y las 'fichas' con las que se juega, siguiendo la dinámica del dominó, juego intuitivo y amigable para diferentes edades."
+    },
+    {
+        "nombre": "Biomaterial Piñón",
+        "fotos": ["https://raw.githubusercontent.com/vlecrz/ev3/main/Mesa%20de%20trabajo%204.jpg", "https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310"],
+        "soporte": "industrial, biomateriales, impacto social/medioambiental",
+        "abstract": "Biomaterial en base a la cáscara del piñón",
+        "texto": "Primer semestre 2020. El proyecto se sitúa en escenarios futuros y cómo se deben repensar los materiales que usamos, la temporalidad de éstos y su viabilidad. El ámbito escogido fue el mobiliario externo de espacios públicos y se pensó desde los cinco pasos de su ciclo de vida. Se puede observar en las imágenes los materiales que se usaron en la creación del biomaterial y la prueba de éste con distintas formas. También se hicieron distintos testeos para ver las propiedades y características del producto. Para esto llevé a cabo pruebas para medir la eficacia del biomaterial en el ámbito elegido, tales como la dureza, la resistencia al agua, a la humedad, al fuego, entre otros."
+    },
+    {
+        "nombre": "Modelado Rick y Morty",
+        "fotos": ["https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310"],
+        "soporte": "industrial, producto",
+        "abstract": "Modelado 3D de Rick y Morty",
+        "texto": "Segundo semestre 2020. Examen de Diseño por Computación I el cual consistió en el modelado de la nave y de los personajes principales de la serie 'Rick y Morty', además del posterior editado de colores y texturas. Además, se hicieron 3 variantes de colores y materiales. Los programas utilizados en este proyecto fueron Rhinoceros para el modelado y Keyshot para las texturas, materiales y renders."
+    }
+
+]
